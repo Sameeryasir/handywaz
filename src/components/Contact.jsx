@@ -38,8 +38,8 @@ export default function Contact() {
             <div className="contact__item">
               <span className="contact__item-label">Email</span>
               <p>
-                <a href="mailto:sameeryasir02@gmail.com" className="contact__phone">
-                  sameeryasir02@gmail.com
+                <a href="mailto:admin@handywaz.com" className="contact__phone">
+                  admin@handywaz.com
                 </a>
               </p>
             </div>

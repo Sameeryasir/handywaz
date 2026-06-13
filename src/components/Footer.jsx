@@ -50,8 +50,8 @@ export default function Footer() {
           <h4>Contact</h4>
           <p><strong>Sameer</strong></p>
           <p>
-            <a href="mailto:sameeryasir02@gmail.com" className="footer__email">
-              sameeryasir02@gmail.com
+            <a href="mailto:admin@handywaz.com" className="footer__email">
+              admin@handywaz.com
             </a>
           </p>
           <p>
